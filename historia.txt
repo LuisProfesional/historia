@@ -1,1 +1,1 @@
-esta es una prueva que se esta realizando para ver si los cambios y los procesos que esee estan realizando en git funcionana y se pueden seguir sin problema
+Esta es una actualización que se esta realizando para ver si los cambios y los procesos que esee están realizando en git funcionana y se pueden seguir sin problema
