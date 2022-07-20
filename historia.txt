@@ -1,3 +1,5 @@
 Esta es una actualización que se esta realizando para ver si los cambios y los
  procesos que esee están realizando en git funcionana y se pueden seguir 
  sin problema y mejorando
+
+ hola que tal me llamo luis enrique y estoy generando una rama b en git
